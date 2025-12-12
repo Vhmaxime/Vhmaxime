@@ -3,29 +3,29 @@
 Based in Belgium <img src="https://flagcdn.com/be.svg" width="15" height="15"/><br><br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SCRUM-Familiar-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCRUM-Familiar-blue?style=for-the-badge" height="30"/>
 </p><br>
 
 ## My current tech stack:
 Languages:<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,md" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,md" height="40"/>
 </p><br>
 
 Frameworks / Libraries:<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,angular"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,angular"  height="40"/>
 </p><br>
 
 Databases:<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,tableplus"/>
+  <img src="https://skillicons.dev/icons?i=mysql,tableplus" height="40"/>
 </p><br>
 
 Tools / IDEs:<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode" height="40"/>
 </p><br>
 
 ## Tech Stack I'm planning to Learn:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=php" height="40"/>
 </p>
 
 
