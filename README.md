@@ -1,5 +1,11 @@
-## Hi there 👋
+## Full Stack Developer in training
 
+Based in Belgium<br><br>
+
+My current tech stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,vscode&perline=4" />
+</p>
 <!--
 **Vhmaxime/Vhmaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
