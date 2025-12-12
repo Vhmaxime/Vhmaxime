@@ -1,8 +1,10 @@
 # Full Stack Developer in training
 
-- Based in Belgium<br><br>
+Based in Belgium <img src="https://flagcdn.com/be.svg" width="15" height="15"/><br><br>
 
-- Familiar with SCRUM methodology<br><br><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/SCRUM-Familiar-blue?style=for-the-badge" />
+</p><br>
 
 ## My current tech stack:
 Languages:<p align="left">
