@@ -1,46 +1,49 @@
-# Full Stack Developer in training
+# Full Stack Developer
 
-Based in Belgium <img src="https://flagcdn.com/be.svg" width="15" height="15"/><br><br>
+📍 Based in Belgium 🇧🇪  
+🎓 Trained in Full Stack Development & Entrepreneurship  
+💻 Passionate about building clean, scalable web applications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SCRUM-Familiar-blue?style=for-the-badge" height="30"/>
-</p><br>
+---
 
-## My current tech stack:
-Languages:<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,md" height="40"/>
-</p><br>
+## 🧠 Tech Stack
 
-Frameworks / Libraries:<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,angular"  height="40"/>
-</p><br>
+### 🖥️ Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Angular
 
-Databases:<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,tableplus" height="40"/>
-</p><br>
+### ⚙️ Backend
+- PHP
+- Laravel
 
-Tools / IDEs:<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" height="40"/>
-</p><br>
+### 🗄️ Databases
+- MySQL
+- Relational Database Design
 
-## Tech Stack I'm planning to Learn:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40"/>
-</p>
+### 🛠️ Tools & Environment
+- VS Code
+- Git & GitHub
+- Markdown
+- REST APIs
+- Postman
 
+---
 
+## 📚 Currently Learning
+- Advanced Laravel concepts
+- API architecture
+- Best practices in scalable backend systems
 
-<!--
-**Vhmaxime/Vhmaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- Build real-world production applications
+- Contribute to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 About Me
+I enjoy turning ideas into functional web applications and continuously improving my skills in modern web development.
